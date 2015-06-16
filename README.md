@@ -46,7 +46,7 @@ Start with the `provision` option to enable the new configuration option
 #### Install Dependencies
 
 	$ cd ~/Code/
-	$ git clone https://bitbucket.org/JeroenKnockaert/ecoride.arteveldehogeschool.local/
+	$ git clone https://github.com/neeltjechanterie/ecoride.arteveldehogeschool.local/
 	$ cd ~/Code/ecoride.arteveldehogeschool.local/www/
 	$ composer self-update
 	$ composer install
@@ -95,6 +95,6 @@ Start with the `provision` option to enable the new configuration option
  
  
 [ahs]:			http://www.arteveldehogeschool.be/en
-[artestead]:	https://bitbucket.org/JeroenKnockaert/ecoride_v2
+[artestead]:		https://github.com/neeltjechanterie/ecoride.arteveldehogeschool.local
 
 
